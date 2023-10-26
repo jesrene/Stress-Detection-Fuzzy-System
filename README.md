@@ -1,12 +1,6 @@
 # Stress-Detection-Fuzzy-System
 
 
-## YouTube Link
-
-Watch demo of our system at:
-https://youtu.be/pWY1dZkjLSI 
-
-
 ## System Overview
 The stress detection fuzzy system was designed with the intention of detecting the stress levels of
 individuals with the use of their heart rate (HR) and electrodermal activity (EDA) as parameters. In
